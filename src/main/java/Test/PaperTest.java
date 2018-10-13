@@ -26,7 +26,6 @@ public class PaperTest {
             case 5:
                 y=y+4;
                 break;
-
         }
 
     }
